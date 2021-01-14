@@ -20,3 +20,19 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 - Rutina de lectura diaria
 
 ---
+
+**Fecha**: 14/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+- Resolución de un problema al día en Python Morsels
+- Iniciada rutina de lectura diaria
+
+**Próximos hitos**:
+
+- Profundizar un poco más en OLAP y Datawarehousing
+- Terminar modulo 3 del curso de ingeniería de datos
+
+---
