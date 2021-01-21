@@ -36,3 +36,18 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 - Terminar modulo 3 del curso de ingeniería de datos
 
 ---
+
+**Fecha**: 21/01/2021
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+- Mantener rutina de lectura diaria
+
+**Próximos hitos**:
+
+- Terminar modulo 3 del curso de ingeniería de datos
+- Dos salidas semanales a correr.
+
+---
