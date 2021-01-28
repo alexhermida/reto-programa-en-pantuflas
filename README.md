@@ -25,7 +25,7 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 - Finalizar proyecto Data Warehouse
 - 2 ejercicios de Python Morsels
-- Revisar configuracioens pendientes de HomeAssistant
+- Revisar configuraciones pendientes de HomeAssistant
 
 ---
 
