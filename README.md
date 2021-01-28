@@ -10,18 +10,37 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 ---
 ​
-**Fecha**: 07/01/2021
+**Fecha**: 28/01/2021
 
 **Humor**: 😀
 
 **Hitos conseguidos**:
 
-- Retomar Python Morsels
+- Mantener rutina de lectura diaria
+- Dos salidas semanales a correr.
+- Terminar modulo 3 del curso de ingeniería de datos
+- Organizar actividad social en http://gather.town/
 
 **Próximos hitos**:
 
-- Profundizar un poco más en OLAP y Datawarehousing
-- Rutina de lectura diaria
+- Finalizar proyecto Data Warehouse
+- 2 ejercicios de Python Morsels
+- Revisar configuracioens pendientes de HomeAssistant
+
+---
+
+**Fecha**: 21/01/2021
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+- Mantener rutina de lectura diaria
+
+**Próximos hitos**:
+
+- Terminar modulo 3 del curso de ingeniería de datos
+- Dos salidas semanales a correr.
 
 ---
 
@@ -41,36 +60,17 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 ---
 
-**Fecha**: 21/01/2021
-
-**Humor**: 😐
-
-**Hitos conseguidos**:
-
-- Mantener rutina de lectura diaria
-
-**Próximos hitos**:
-
-- Terminar modulo 3 del curso de ingeniería de datos
-- Dos salidas semanales a correr.
-
----
-
-**Fecha**: 28/01/2021
+**Fecha**: 07/01/2021
 
 **Humor**: 😀
 
 **Hitos conseguidos**:
 
-- Mantener rutina de lectura diaria
-- Dos salidas semanales a correr.
-- Terminar modulo 3 del curso de ingeniería de datos
-- Organizar actividad social en http://gather.town/
+- Retomar Python Morsels
 
 **Próximos hitos**:
 
-- Finalizar proyecto Data Warehouse
-- 2 ejercicios de Python Morsels
-- Revisar configuracioens pendientes de HomeAssistant
+- Profundizar un poco más en OLAP y Datawarehousing
+- Rutina de lectura diaria
 
 ---
