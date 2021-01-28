@@ -4,6 +4,10 @@
 
 Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas).
 
+### Insignias
+
+<img src="badges/programaenpantuflas-pantufla1.png" width="150">
+
 ---
 ​
 **Fecha**: 07/01/2021
