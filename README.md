@@ -51,3 +51,22 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 - Dos salidas semanales a correr.
 
 ---
+
+**Fecha**: 28/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+- Mantener rutina de lectura diaria
+- Dos salidas semanales a correr.
+- Terminar modulo 3 del curso de ingeniería de datos
+- Organizar actividad social en http://gather.town/
+
+**Próximos hitos**:
+
+- Finalizar proyecto Data Warehouse
+- 2 ejercicios de Python Morsels
+- Revisar configuracioens pendientes de HomeAssistant
+
+---
