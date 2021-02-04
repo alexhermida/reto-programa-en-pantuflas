@@ -5,8 +5,26 @@
 Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas).
 
 ### Insignias
-
+<!-- markdownlint-disable MD033-->
 <img src="badges/programaenpantuflas-pantufla1.png" width="150">
+<img src="badges/programaenpantuflas-pantufla5.png" width="150">
+<img src="badges/programaenpantuflas-chanclahappy3.png" width="150">
+
+---
+​
+**Fecha**: 04/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+- Mantener rutinas
+
+**Próximos hitos**:
+
+- Finalizar proyecto Data Warehouse
+- 2 ejercicios de Python Morsels
+- Revisar configuraciones pendientes de HomeAssistant
 
 ---
 ​
