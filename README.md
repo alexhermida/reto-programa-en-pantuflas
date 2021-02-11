@@ -13,6 +13,23 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 ---
 ​
+**Fecha**: 11/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+- Finalizar proyecto Data Warehouse #yey
+- 2 ejercicios de Python Morsels
+
+**Próximos hitos**:
+
+- Revisar configuraciones pendientes de HomeAssistant
+- Empezar módulo 4 Data Lakes
+- Planificar componentes para nuevo equipo
+
+---
+​
 **Fecha**: 04/02/2021
 
 **Humor**: 😀
