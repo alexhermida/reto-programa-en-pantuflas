@@ -13,6 +13,23 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 ---
 ​
+**Fecha**: 18/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+- Empezar módulo 4 Data Lakes
+- Pedido y recibido nuevo equipo
+
+**Próximos hitos**:
+
+- Revisar configuraciones pendientes de HomeAssistant
+- Finalizar módulo 4 Data Lakes
+- Montar nuevo equipo
+
+---
+​
 **Fecha**: 11/02/2021
 
 **Humor**: 😀
