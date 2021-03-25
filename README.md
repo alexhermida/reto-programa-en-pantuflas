@@ -13,6 +13,23 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 ---
 ​
+**Fecha**: 25/03/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+- Deep dive en FastAPI
+- Finalizar hitos en el trabajo
+- Fun time in Minecraft
+
+**Próximos hitos**:
+
+- Finalizar proyecto Data Lakes
+- Finalizar modulo 5 Data Pipelines
+
+---
+​
 **Fecha**: 18/03/2021
 
 **Humor**: 😐
