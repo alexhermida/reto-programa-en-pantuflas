@@ -13,6 +13,21 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 ---
 ​
+**Fecha**: 08/04/2021
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+- Retomar modulo 5 Data Pipelines
+- Deporte 5 días semanales
+
+**Próximos hitos**:
+
+- Finalizar proyecto Data Lakes #push
+
+---
+​
 **Fecha**: 01/04/2021
 
 **Humor**: 😀
