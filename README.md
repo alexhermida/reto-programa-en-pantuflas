@@ -8,7 +8,10 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 <!-- markdownlint-disable MD033-->
 <img src="badges/programaenpantuflas-pantufla1.png" width="150" align="left">
 <img src="badges/programaenpantuflas-pantufla5.png" width="150" align="left">
+<img src="badges/programaenpantuflas-pantufla15.png" width="150" align="left">
+<br><br><br><br><br><br><br>
 <img src="badges/programaenpantuflas-chanclahappy3.png" width="150" align="left">
+<img src="badges/programaenpantuflas-chanclahappy7.png" width="150" align="left">
 <br><br><br><br><br><br><br>
 
 ---
