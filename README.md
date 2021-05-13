@@ -16,6 +16,20 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 ---
 ​
+**Fecha**: 13/05/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+- Directo WR
+
+**Próximos hitos**:
+
+- Terminar proyecto final data engineer.
+
+---
+​
 **Fecha**: 07/05/2021
 
 **Humor**: 😀
