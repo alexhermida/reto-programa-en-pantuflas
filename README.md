@@ -16,17 +16,17 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 ---
 ​
-**Fecha**: 27/05/2021
+**Fecha**: 10/06/2021
 
 **Humor**: 😀
 
 **Hitos conseguidos**:
 
-- En curso proyecto final data engineer
+- Cursos ML terminados 
 
 **Próximos hitos**:
 
-- ML search api deep dive
+- Terminar proyecto final data engineer
 
 ---
 ​
